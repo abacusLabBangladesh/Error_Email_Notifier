@@ -1,0 +1,15 @@
+{
+  "name": "ErrorEmailNotifier",
+  "version": "0.0.1",
+  "description": "When your server commits an error using this module you can get notification to your desired mail.",
+  "main": "EmailNotifier.js",
+  "author": {
+			"name": {"shahriar","shuvo"}
+			"email": {"shahriar_cse@live.com", "wrdreamer@live.com"}
+  },
+  "dependencies": {
+    "nodemailer": "~0.6.0"
+  }
+}
+
+

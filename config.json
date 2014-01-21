@@ -1,0 +1,14 @@
+﻿{
+"authInfo":{
+		"service": "Hotmail",
+		"auth": {
+				"user": "support_nerdcats@live.com",
+				"pass": "BangladeshNerd"
+		       }
+},
+"mailOptions":{
+		"from": "support_nerdcats@live.com", 
+        "to": "shahriar_cse@live.com", 
+		"subject": "New Bug Dhrosi :'( "
+		}
+}
